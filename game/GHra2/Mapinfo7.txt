@@ -1,0 +1,58 @@
+** RED ALERT 2 MAP PACK #7
+** RELEASED 3/09/2001
+** COPYRIGHT 2001 ELECTRONIC ARTS INC.  ALL RIGHTS RESERVED.
+
+** INSTRUCTIONS **
+
+MAP PACK DOWNLOAD DIRECTIONS
+
+Step 1:  Double click on the free Map Pack of your choice.
+
+Step 2:  Choose "Save this program to disk". Click "Okay".
+
+Step 3:  Save the zipped file to C:\Westwood\RA2.  This is the default directory to which RA2 was originally installed. If you chose to install to a different directory, choose that one.
+
+Step 4:  Go to C:\Westwood\RA2 and locate the RA2MAPPAC file.  Double click it.
+
+Step 5:  Left click on "OK" and the click on "Unzip".  This will uncompress the file you just downloaded. Make sure you extract it into the RA2 directory.  If you chose the default install directory then this will be  \WESTWOOD\RA2\
+
+Step 6:  The process is complete. The new maps should automatically appear in Skirmish/Westwood Online/Local Area Network modes.
+
+
+******************************
+
+Roundhouse Kick
+
+(2-4 Player Island Map)
+Resource: Moderate (oil derricks, gems, and gold)
+Environmental Conditions: Snow
+File: round.mmx
+
+Features: 
+Players will start on an island located in the center of the map. A rock wall divider separates players from each other. 
+
+Tip: This is a fast paced map that requires quick thinking and short-term strategies.
+
+Army of The Potomac
+(2-6 Player Island Map)
+Resource: Heavy (oil derricks, gems, and gold)
+Environmental Conditions: Temperate/Urban
+File: potomac.mmx
+
+Features:
+This map takes place around the Potomac River in war torn Washington DC. Players will find many bunkers, outposts, and tents covering the region.
+
+Tip: Secure the bunkers guarding the pathways across the Potomac River. They will help to detour any enemy forces wishing to cross.
+
+Carville's Convoy
+(2-4 Player Map)
+Resources: moderate (oil derricks, gems, and gold)
+Environmental Conditions: snow
+File: carville.mmx
+
+Features:
+During the Soviet invasion General Carver had to move troops and supplies quickly through various regions in the US. This ordinary mountain pass in the Colorado Rockies became known as Carville's Convoy, due to the amount of activity it received. To maintain security, General Carville ordered tech outposts built to keep watch over his much needed supplies.
+
+
+Tip: Quickly secure the oil derricks and service depots in the region. They will help to advance your movements to your opponents bases. 
+

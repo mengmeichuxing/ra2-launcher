@@ -1,0 +1,8 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Westwood\Red Alert 2]
+"Name"="Red Alert 2"
+"SKU"=dword:00002100
+"Version"=dword:00010000
+"Serial"="4926368235786076045688"
+
